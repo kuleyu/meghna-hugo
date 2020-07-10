@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = https://xuancao.netlify.app"
+baseURL = "https://xuancao.netlify.app"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
